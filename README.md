@@ -2,7 +2,7 @@
 
 ### Fullstack/frontend dev
 
-Hi everyone, I have project experience with React js, and always keep learning in this field, I am dedicated to creating clean, reusable and responsive web applications that provide a great user experience. I am currently learning about **typescript** for have better development experience and also **Next js** will be my next destination to keep up with the evolving technology.
+Hi everyone, I have project experience with frontend dev using React js and backend with projects creating APIs with node js and express.Also fullstack web applications but for now I am leaning more towards the frontend field, and always keep learning in the fullstack field, I am dedicated to creating clean, reusable, and responsive web applications that provide a great user experience. I am currently learning about **typescript** to gain better development experience and also **Next js** will be my next goal to keep up with the technology.
 
 * 🙌 I'm based in Semarang,Indonesia
 * ✉  You can contact me on [contact email][def]
