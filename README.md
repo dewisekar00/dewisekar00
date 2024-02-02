@@ -9,7 +9,7 @@ Hi everyone, I have project experience with frontend dev using React js and back
 
 [def]: mailto:dewisekar623@gmail.com
 
-* currently in learning typescript👆
+* 👆 currently in learning typescript
 
 ### Skill
 - JavaScript 🌐
